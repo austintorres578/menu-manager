@@ -39,6 +39,9 @@ function App() {
           }
           final.items = "";
           final.heading = heading;
+          name = "";
+          price = "";
+          description = "";
           // Check if the heading has a description
           continue;
         }
